@@ -12,7 +12,8 @@ I'm the creator and owner of [@UT-MC](https://github.com/ut-mc) and [UnknownTekk
 
 I'm also a Java and PHP Developer, as well as a network & system administrator.
 
-On GitHub, I mostly make and maintain Minecraft plugins and mods, but I also do a bit of web development and other misc projects on the side! 
+On GitHub, I mostly make and maintain Minecraft plugins and mods, but I also do a bit of web development and other misc projects on the side! \
+Note: *The large majority of my projects are private as they are for internal use at UT-MC only.*
 
 ### Current Projects:
 Here are a list of things I develop / actively maintain
@@ -34,7 +35,7 @@ Here are a list of things I develop / actively maintain
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
