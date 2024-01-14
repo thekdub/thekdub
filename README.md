@@ -14,24 +14,20 @@ I'm also a Java and PHP Developer, as well as a network & system administrator.
 
 On GitHub, I mostly make and maintain Minecraft plugins and mods, but I also do a bit of web development and other misc projects on the side! 
 
-```
-I make Minecraft plugins
-I hate making Minecraft plugins
-```
-
 ### Current Projects:
 Here are a list of things I develop / actively maintain
 - The UT-MC Website
 - TheKBot4
 - ServerElements
 - Crux
-- Other Minecraft mods/plugins
+- Other misc. Minecraft mods/plugins
 - [**IC2 Refined**](https://github.com/thekdub/IC2-Refined)
 
 ### Future Projects:
 
 - [ ] Comprehensive and customizable webstore for UT-MC
 - [ ] CMS and API for the UT-MC website
+- [ ] ???
 
 # Languages & Tools
 
