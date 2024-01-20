@@ -69,6 +69,7 @@ Here are a list of things I develop / actively maintain
 <div style="display: flex; justify-content: center;">
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthekdub1212%2Fhit-counter)
+[![wakatime](https://wakatime.com/badge/user/018d2852-f55e-4272-9256-979c25f48247.svg?style=default)](https://wakatime.com/@018d2852-f55e-4272-9256-979c25f48247)
 
 </div>
 
