@@ -20,9 +20,7 @@ Here are a list of things I develop / actively maintain
 - The UT-MC Website
 - TheKBot4
 - ServerElements
-- Crux
 - Other misc. Minecraft mods/plugins
-- [**IC2 Refined**](https://github.com/thekdub/IC2-Refined)
 
 ### Future Projects:
 
