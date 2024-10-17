@@ -10,7 +10,7 @@ Hey, I'm TheKDub
 
 I'm the creator and owner of [@UT-MC](https://github.com/ut-mc) and [UnknownTekkit](https://ut-mc.com), the oldest and largest Tekkit Classic community around!
 
-I'm also a Java and PHP Developer, as well as a network & system administrator.
+I'm also a Java and PHP Developer, as well as a network & systems engineer.
 
 On GitHub, I mostly make and maintain Minecraft plugins and mods, but I also do a bit of web development and other misc projects on the side! \
 Note: *The large majority of my projects are private as they are for internal use at UT-MC only.*
